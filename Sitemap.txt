@@ -35,7 +35,6 @@ Home
 			-item list/results
 				-item detail/description (leaf node)
 		? Sell
-			-item detail/description (leaf node)
 	-Discussion Forum
 		...		
 	-Contact Us
