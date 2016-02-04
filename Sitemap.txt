@@ -1,0 +1,44 @@
+"gun-site" Site outline			Feb 4, 2016
+
+Conventions used below:
+	-<name> = a path from the root of the site
+	? <name> = an action that can be taken at the given location
+	(<name>) = something to be considered... subsequent phases  perhaps
+
+
+
+Home
+	-Account
+		-Login
+		-Signup
+		-Login Help (forgot password)
+		-My Account
+			? Edit
+			? View
+	-About
+		-Legal
+		-FAQ
+	-(Auction)
+		? Browse
+			-categories/geo
+				-item list/results
+					-item detail/description (leaf node)	
+		? Search
+			-item list/results
+				-detail/description (leaf node)
+	-Market
+		? Browse
+			-categories/geo
+				-item list/results
+					-item detail/description (leaf node)
+		? Search
+			-item list/results
+				-item detail/description (leaf node)
+		? Sell
+			-item detail/description (leaf node)
+	-Discussion Forum
+		...		
+	-Contact Us
+	
+			
+		
