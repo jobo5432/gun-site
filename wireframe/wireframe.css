@@ -1,0 +1,40 @@
+html, body{
+	height: 100%;
+}
+
+.bg-light-gray{
+	background-color: #ddddee;
+	color: #222;
+}
+
+.bg-med-gray{
+	background-color: #ccccdd;
+	color: #222;
+}
+
+.logo{
+	width: 100px;
+	height: 60px;
+}
+
+.text-align-center{
+	text-align: center;
+}
+
+#navlinks{
+	position: absolute;
+	bottom: 0 !important;
+	right: 0px;
+}
+
+#navlinks .separator:before{
+}
+
+.show-border{
+	/*border: solid 1px #ff66ff;*/
+}
+
+#main-head{
+	position: relative;
+	border-bottom: solid 1px #bbb;
+}
