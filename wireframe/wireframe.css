@@ -2,14 +2,28 @@ html, body{
 	height: 100%;
 }
 
+footer{
+	text-align: center;
+	margin-top: 48px;
+	padding: 6px 0px 12px 0px;
+}
+
 .bg-light-gray{
-	background-color: #ddddee;
+	background-color: #eee;
 	color: #222;
 }
 
 .bg-med-gray{
-	background-color: #ccccdd;
+	background-color: #dddddd;
 	color: #222;
+}
+.bg-dark-gray{
+	background-color: #666;
+	color: #eee;
+}
+
+.separator{
+	border-right: dashed 1px #888;
 }
 
 .logo{
@@ -17,8 +31,68 @@ html, body{
 	height: 60px;
 }
 
+.recent-small{
+	height: 80%;
+	width: 80%;
+}
+
 .text-align-center{
 	text-align: center;
+}
+.text-align-right{
+	text-align: right;
+}
+.text-align-left{
+	text-align: left;
+}
+
+.recent-item{
+	margin-bottom: 12px;
+}
+
+.featured-small{
+	height: 50%;
+	width: 50%;
+}
+
+.side-callout-small{
+	height: 85%;
+	width: 85%;
+}
+
+.testimonial-user-img{
+	height: 110px;
+	width: 110px;
+	-webkit-border-radius: 110px;
+	-moz-border-radius: 110px;
+	border-radius: 110px;
+}
+
+.content-main{
+	min-height: 760px;
+}
+
+.callout-main{
+	min-height: 760px;
+}
+
+.faq-question{
+	margin-top: 24px;
+}
+
+.user-large{
+	height: 256px;
+	width: 256px;
+}
+.user-small{
+	height: 28px;
+	width: 28px;
+	-webkit-border-radius: 28px;
+	-moz-border-radius: 28px;
+	border-radius: 28px;
+	border: solid 1px #eee;
+	margin-top: -3px;
+	margin-right: 6px;
 }
 
 #navlinks{
@@ -31,7 +105,7 @@ html, body{
 }
 
 .show-border{
-	/*border: solid 1px #ff66ff;*/
+	border: solid 1px #ff66ff;
 }
 
 #main-head{
