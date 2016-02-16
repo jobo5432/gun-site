@@ -50,6 +50,17 @@ footer{
 	margin-bottom: 12px;
 }
 
+.itemlist-item{
+	margin-bottom: 12px;
+	padding-bottom: 12px;
+	border-bottom: solid 1px #dcdcdc;
+}
+
+.itemlist-item:last-child{
+	border-bottom: none;
+}
+
+
 .featured-small{
 	height: 50%;
 	width: 50%;
