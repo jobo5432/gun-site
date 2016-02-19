@@ -1,6 +1,6 @@
 {
   "name": "gunhawk.io",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "frontend (Angular 2/Typescript) for the site.",
   "main": "app.js",
   "scripts": {
